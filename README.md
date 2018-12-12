@@ -11,11 +11,16 @@ My name is Chad Underhill, and I'm a senior pursuing an undergraduate degree in 
 Below are some samples of my work for this course. If you're interested, you can read more about my design process [here](https://medium.com/@chad.j.underhill/my-design-manifesto-fa59420882a8).
 
 - [Tailoring the design of an existing website for a specific user and use-case](https://medium.com/@chad.j.underhill/redesigning-technocopias-mobile-website-for-adult-professionals-interested-in-digital-fabrication-e481e7ba7df4).
+
 - [Finding different ways to display visual information in order to influence user understanding](https://medium.com/@chad.j.underhill/design-for-understanding-a1e95249cb66).
+
 - [Building a chatbot to navigate the discussion of a tense topic](https://medium.com/@chad.j.underhill/design-for-tension-reflection-9339462f21da).
+
 - [Designing a webapp that attempt to improve a user’s life by reading their emotions/actions](https://medium.com/@chad.j.underhill/design-for-wellbeing-reflection-9a56765496cd).
+We built an app that can detect whether if a user is falling asleep while working at their computer. When they do, the app gently wakes them up and suggests a healthy activity to get them away from the screen for a bit - like taking a nap or getting some water to drink.
+
 - [Creating a VR interface that gives users a new perspective on technology]().
 
 ### Contact Me
 
-If you have any questions or comments, feel free to reach out to me at cjunderhill+hci@wpi.edu. You can also find me on LinkedIn!
+If you have any questions or comments, feel free to reach out to me at [cjunderhill+hci@wpi.edu](mailto:cjunderhill+hci@wpi.edu). You can also find me on LinkedIn!
