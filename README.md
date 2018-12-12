@@ -28,6 +28,8 @@ We built an app that can detect whether if a user is falling asleep while workin
 
 - [Creating a VR interface that gives users a new perspective on technology]().
 
+We built a VR world that helps users explore poetry. This prototype uses Robert Frost's "Stopping By Woods on a Snowy Evening" as an example: the user is surrounded by images reflecting the content of the poem. Part-by-part, the narrator reads the poem to the user, changing the imagery to best fit the content of the poem.
+
 ### Contact Me
 
 If you have any questions or comments, feel free to reach out to me at [cjunderhill+hci@wpi.edu](mailto:cjunderhill+hci@wpi.edu). You can also find me on LinkedIn!
