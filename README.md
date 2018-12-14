@@ -26,7 +26,7 @@ We built a chatbot that attempts to convince users to become pro-nuclear energy 
 
 We built an app that can detect whether if a user is falling asleep while working at their computer. When they do, the app gently wakes them up and suggests a healthy activity to get them away from the screen for a bit - like taking a nap or getting some water to drink.
 
-- [Creating a VR interface that gives users a new perspective on technology]().
+- [Creating a VR interface that gives users a new perspective on technology](https://medium.com/@jaredgrimm1/design-for-another-world-6c6c11c082d0).
 
 We built a VR world that helps users explore poetry. This prototype uses Robert Frost's "Stopping By Woods on a Snowy Evening" as an example: the user is surrounded by images reflecting the content of the poem. Part-by-part, the narrator reads the poem to the user, changing the imagery to best fit the content of the poem.
 
